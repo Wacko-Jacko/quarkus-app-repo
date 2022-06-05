@@ -8,4 +8,4 @@ spec:
     - name: fetch
       image: alpine/git
       script: |
-        git clone 
+        git clone https://github.com/Wacko-Jacko/quarkus-app-repo.git
